@@ -1,0 +1,62 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+.color{
+
+    background: blue;
+    color: yellow;
+    margin: auto;
+    height: 30px;
+    padding: 4px;
+    font-size: 12px;
+}
+
+
+
+.margin{
+
+    margin-left: 20px;
+}
+
+.navbar{
+
+    background-color: blue;
+}
+
+.color1 a{
+
+    color: white;
+}
+
+.btn{
+
+    border-radius: 5px black solid;
+}
+
+.cont{
+
+    background-color: orange;
+}
+
+.text h3{ 
+
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.text{
+
+    text-align: center;
+}
+
+.sect{
+
+    background-color: orange;
+    padding: 15px;
+}

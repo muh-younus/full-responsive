@@ -1,0 +1,55 @@
+
+
+body{
+
+    overflow-x: hidden;
+}
+
+.container{
+
+    margin: 5px;
+}
+
+.header h1{
+
+   color: white;
+    text-align: center;
+    background-color: darkblue;
+    padding: 20px;
+    font-size: 50px;
+}
+
+.left{
+
+    width: 20%;
+    float: left;
+    
+}
+
+.left a{
+
+    width: 100%;
+    float: left;
+    padding: 15px 0px 15px 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.right{
+
+    width: 50%;
+    float: left;
+    padding: 25px 0px 0px 20px;
+
+}
+.ftr{
+
+    width: 100%;
+    background-color: darkblue;
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+
